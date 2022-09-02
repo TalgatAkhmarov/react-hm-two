@@ -1,0 +1,36 @@
+.card-img{
+    width: 400px;
+    height: 400px;
+    border-radius: 4px;
+}
+
+.card-desc{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.card-title{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 22px;
+
+    color: #FFFFFF;
+
+    opacity: 0.5;
+}
+
+.card-price{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 22px;
+
+    color: #FFFFFF;
+}

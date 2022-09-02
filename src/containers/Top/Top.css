@@ -1,0 +1,89 @@
+.container {
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  align-items: center;
+}
+.container-block {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+}
+.content-block {
+  display: flex;
+  width: 86%;
+  margin-top: 30px;
+  border-bottom: 3px solid #fff;
+}
+.content-block p {
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.title-block-start {
+  display: flex;
+  width: 86%;
+  border-bottom: 3px solid #fff;
+}
+.title-block-start {
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 65px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: #FB0223;
+}
+.title-block-end {
+  display: flex;
+  width: 86%;
+  border-bottom: 3px solid #fff;
+}
+.title-block-end {
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 65px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.text-content-block {
+  display: flex;
+  width: 86%;
+}
+.text-content-block p {
+  width: 36%;
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  text-transform: uppercase;
+
+  color: #FFFFFF;
+}
+
+
+.tshirt{
+  display: flex;
+  width: 86%;
+  justify-content: space-between;
+}
+
+.bottom-bestsellers{
+  width: 86%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.bottom-bestsellers p{
+  color: #fff;
+  font-size: 20px;
+}

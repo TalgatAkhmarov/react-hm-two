@@ -1,0 +1,41 @@
+.header{
+  
+  height: 110px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+
+ 
+}
+
+.header-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nike{
+  width: 20%;
+}
+
+.menu{
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}
+.menu a{
+   
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 19px;
+	text-transform: uppercase;
+}
+
+.header-icons{
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+}
